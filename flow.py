@@ -1,4 +1,4 @@
-""""traffic light will run in the background  with a time interval of 'X'
+"""traffic light will run in the background  with a time interval of 'X'
 >>camera on
 >>start recording{
 	while signal==red
@@ -10,7 +10,7 @@
 		}
 		}
 		else continue recording/flow of lights
-""""
+"""
 
 
 from gpiozero import MotionSensor
